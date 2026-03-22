@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-
 from helper import perform_calculation, convert_to_float
 
 app = Flask(__name__)  # create the instance of the flask class

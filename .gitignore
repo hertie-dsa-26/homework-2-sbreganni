@@ -1,2 +1,7 @@
 .idea/
 __pycache__/
+.venv/
+
+# calculator app:
+calculator/.venv/
+calculator/__pycache__/
